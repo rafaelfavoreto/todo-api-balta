@@ -42,3 +42,6 @@ Entity Framework Core
 SQL Server (via Docker)
 
 Firebase Authentication
+
+![image](https://github.com/user-attachments/assets/fa8cd01d-e41e-4485-ada6-cb0599ea94f3)
+
