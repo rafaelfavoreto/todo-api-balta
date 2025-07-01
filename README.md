@@ -1,6 +1,4 @@
-Course 7196 – Todo App: API with ASP.NET Core, EF Core, and CQRS
-This repository contains the source code for the Course 7196, focused on building a robust, well-structured API for a full-stack Todo App solution (Backend, Frontend, and Mobile).
-
+Todo App: API with ASP.NET Core, EF Core, and CQRS
 The course emphasizes modern architectural patterns and best practices for API development using ASP.NET Core, Entity Framework Core, and CQRS.
 
 ✅ What You Will Learn
